@@ -1,11 +1,12 @@
 ## Hey folks 👋
 
 Juan Felipe Gonzalez
+
 Data Scientist | Aspiring PhD Researcher | Machine Learning | Applied Statistics
 
 I am a data scientist and aspiring PhD researcher interested in developing interpretable, reliable, and trustworthy artificial intelligence systems. My research focuses on explainable machine learning, statistical modeling, and human-centered AI to improve transparency, fairness, and decision-making in complex predictive models.
 
-I enjoy building research projects that combine rigorous statistical methods with modern machine learning techniques to solve real-world problems.
+I enjoy doing research projects that combine rigorous statistical methods with modern machine learning techniques to solve real-world problems.
 
 🔬 Research Interests
 - Explainable Artificial Intelligence (XAI)
