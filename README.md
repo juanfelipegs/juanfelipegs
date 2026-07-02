@@ -1,6 +1,5 @@
 ## Hey there 👋
 
-<!--
 Juan Felipe Gonzalez
 Data Scientist | Aspiring PhD Researcher | Machine Learning | Applied Statistics
 
