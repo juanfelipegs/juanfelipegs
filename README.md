@@ -28,8 +28,7 @@ Montclair State University
 B.S. in Business Administration
 EAFIT University
 
-💻 Technical Skills
-Programming Languages
+💻 Programming Languages
 - Python
 - SQL
   
