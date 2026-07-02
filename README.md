@@ -1,16 +1,8 @@
 ## Hey folks 👋
-model = XGBClassifier()
-
-model.fit(X_train, y_train)
-
-explainer = shap.Explainer(model)
-
-shap_values = explainer(X_test)
-
-plt.show()
-
-
-</text>Data Scientist | Aspiring PhD Researcher | Machine Learning | Applied Statistics
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Juan+Felipe+Gonzalez;Data+Scientist;Aspiring+PhD+Researcher;Machine+Learning+%7C+Applied+Statistics"/>
+</p>
+Data Scientist | Aspiring PhD Researcher | Machine Learning | Applied Statistics
 
 I am a data scientist and aspiring PhD researcher interested in developing interpretable, reliable, and trustworthy artificial intelligence systems. My research focuses on explainable machine learning, statistical modeling, and human-centered AI to improve transparency, fairness, and decision-making in complex predictive models.
 
