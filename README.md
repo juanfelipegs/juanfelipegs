@@ -1,6 +1,7 @@
 ## Hey folks 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Juan%20Felipe%20Gonzalez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20|%20Explainable%20AI%20Researcher&descAlignY=60"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Juan+Felipe+Gonzalez;Aspiring+Data+Scientist;Explainable+AI+(XAI)+Researcher;Machine+Learning+%7C+Applied+Statistics"/>
+</p>
 
 Data Scientist | Aspiring PhD Researcher | Machine Learning | Applied Statistics
 
