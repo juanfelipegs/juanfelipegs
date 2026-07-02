@@ -94,7 +94,9 @@ Coming Soon.
 - Research-Oriented Data Science Projects
 
 🌐 Connect
-- LinkedIn
-- GitHub
-- ORCID (Coming Soon)
-- Google Scholar (Coming Soon)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanfelipe-gonzalez)
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfelipegs123@gmail.com)
