@@ -93,7 +93,7 @@ Coming Soon.
 - Research-Oriented Data Science Projects
 
 🌐 Connect
-LinkedIn
-GitHub
-ORCID (Coming Soon)
-Google Scholar (Coming Soon)
+- LinkedIn
+- GitHub
+- ORCID (Coming Soon)
+- Google Scholar (Coming Soon)
