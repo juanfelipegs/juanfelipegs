@@ -100,3 +100,32 @@ Coming Soon.
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfelipegs123@gmail.com)
+
+
+
+
+
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+<a href="https://linkedin.com/in/YOURUSERNAME">
+<img src="https://cdn.simpleicons.org/linkedin" height="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/juanfelipegs">
+<img src="https://cdn.simpleicons.org/github" height="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=YOURID">
+<img src="https://cdn.simpleicons.org/googlescholar" height="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://orcid.org/0000-0000-0000-0000">
+<img src="https://cdn.simpleicons.org/orcid" height="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:your@email.com">
+<img src="https://cdn.simpleicons.org/gmail" height="32"/>
+</a>
+</p>
