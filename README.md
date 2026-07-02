@@ -1,6 +1,16 @@
 ## Hey folks 👋
-github-contribution-grid-snake.svg
-Data Scientist | Aspiring PhD Researcher | Machine Learning | Applied Statistics
+model = XGBClassifier()
+
+model.fit(X_train, y_train)
+
+explainer = shap.Explainer(model)
+
+shap_values = explainer(X_test)
+
+plt.show()
+
+
+</text>Data Scientist | Aspiring PhD Researcher | Machine Learning | Applied Statistics
 
 I am a data scientist and aspiring PhD researcher interested in developing interpretable, reliable, and trustworthy artificial intelligence systems. My research focuses on explainable machine learning, statistical modeling, and human-centered AI to improve transparency, fairness, and decision-making in complex predictive models.
 
