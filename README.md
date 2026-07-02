@@ -1,6 +1,6 @@
 ## Hey folks 👋
 
-Juan Felipe Gonzalez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Juan%20Felipe%20Gonzalez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20|%20Explainable%20AI%20Researcher&descAlignY=60"/>
 
 Data Scientist | Aspiring PhD Researcher | Machine Learning | Applied Statistics
 
